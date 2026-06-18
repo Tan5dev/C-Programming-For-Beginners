@@ -66,4 +66,4 @@ Result = 50.00
 
 ## Author
 
-Tanmay
+Tanmay Pathe
