@@ -145,7 +145,7 @@ By building this project, you will learn:
 
 ## Author
 
-Tanmay
+Tanmay Pathe
 
 ---
 
